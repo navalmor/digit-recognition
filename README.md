@@ -1,10 +1,10 @@
-# 🎯 Digit Recognition using PyTorch
-
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg?style=for-the-badge&logo=python)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
 ![MNIST Dataset](https://img.shields.io/badge/Dataset-MNIST-orange?style=for-the-badge&logo=databricks)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+
+# 🎯 Digit Recognition using PyTorch
 
 ## 📚 Project Overview
 
